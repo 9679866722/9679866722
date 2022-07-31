@@ -1,4 +1,4 @@
-[![MasterHead](https://jelvix.com/wp-content/uploads/2019/08/59b7a2e25d6ec.jpg)](https://rishavchanda.io)
+[![MasterHead](https://st2.depositphotos.com/1813786/10358/v/450/depositphotos_103581458-stock-illustration-set-of-application-development.jpg)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Ritesh Jana</h1>
 <h3 align="center">A passionate full stack web developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
