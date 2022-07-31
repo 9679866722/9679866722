@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Ritesh Jana</h1>
 <h3 align="center">A passionate full stack web developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1600/0*C-cPP9D2MIyeexAT.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=9679866722&label=Profile%20views&color=0e75b6&style=flat" alt="9679866722" /> </p>
+<p align="left"> <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="9679866722" /> </p>
 
 - 🔭 I’m currently working on **eNotebook**
 
